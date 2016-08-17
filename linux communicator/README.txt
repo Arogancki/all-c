@@ -1,1 +1,1 @@
-simple linux communicator.
+simple, based on sockets linux communicator.

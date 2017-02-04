@@ -1,0 +1,4 @@
+Akcja
+Imie11;Pseudonim11;Nazwisko11;Jakis Film Akcja 1;Jakis Film Akcja 2;Jakis Film Akcja 3;Jakis Film Akcja 4;Jakis Film Akcja 5;
+Imie22;Pseudonim22;Nazwisko22;Przykladowy Film Akcja 1;Przykladowy Film Akcja 2;Przykladowy Film Akcja 3;Przykladowy Film Akcja 4;Przykladowy Film Akcja 5;
+Imie33;Pseudonim33;Nazwisko33;Wybrany Film Akcja 1;Wybrany Film Akcja 2;Wybrany Film Akcja 3;Wybrany Film Akcja 4;Wybrany Film Akcja 5;

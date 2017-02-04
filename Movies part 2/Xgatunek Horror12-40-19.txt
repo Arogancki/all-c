@@ -1,0 +1,4 @@
+Horror
+nowe imie;nowy pseudonim;nowe nazwisko;Nowy Jakis Film Horror 1;Nowy Jakis Film Horror 2;Nowy Jakis Film Horror 3;Nowy Jakis Film Horror 4;Nowy Jakis Film Horror 5;
+Imie2;Pseudonim2;Nazwisko2;Przykladowy Film Horror 1;Przykladowy Film Horror 2;Przykladowy Film Horror 3;Przykladowy Film Horror 4;Przykladowy Film Horror 5;
+Imie3;Pseudonim3;Nazwisko3;Wybrany Film Horror 1;Wybrany Film Horror 2;Wybrany Film Horror 3;Wybrany Film Horror 4;Wybrany Film Horror 5;

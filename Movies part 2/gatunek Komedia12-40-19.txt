@@ -1,0 +1,4 @@
+Komedia
+ZmodyfikowaneImie;ZmodyfikowanyNick;ZmodyfikowaneNazwisko;Zmodyfikowany Film Komedia 1;Zmodyfikowany Film Komedia 2;Zmodyfikowany Film Komedia 3;Zmodyfikowany Film Komedia 4;Zmodyfikowany Film Komedia 5;
+Imie94;Pseudonim94;Nazwisko94;Przykladowy Film Komedia 1;Przykladowy Film Komedia 2;Przykladowy Film Komedia 3;Przykladowy Film Komedia 4;Przykladowy Film Komedia 5;
+Imie90;Pseudonim90;Nazwisko90;Wybrany Film Komedia 1;Wybrany Film Komedia 2;Wybrany Film Komedia 3;Wybrany Film Komedia 4;Wybrany Film Komedia 5;

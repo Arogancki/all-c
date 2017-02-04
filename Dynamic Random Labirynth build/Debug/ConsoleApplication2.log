@@ -1,0 +1,4 @@
+﻿  ConsoleApplication2.cpp
+c:\users\artur\documents\visual studio 2015\projects\pw\magic\consoleapplication2\consoleapplication2\labyrinth.h(13): warning C4091: 'typedef ': ignored on left of 'field' when no variable is declared
+c:\users\artur\documents\visual studio 2015\projects\pw\magic\consoleapplication2\consoleapplication2\labyrinth.h(18): warning C4091: 'typedef ': ignored on left of 'user' when no variable is declared
+  ConsoleApplication2.vcxproj -> C:\Users\Artur\Documents\Visual Studio 2015\Projects\PW\magic\ConsoleApplication2\Debug\ConsoleApplication2.exe

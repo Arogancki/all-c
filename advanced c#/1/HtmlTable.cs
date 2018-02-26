@@ -50,6 +50,18 @@ namespace ConsoleApplication1
             catch (Exception e)
             { /* no more bodies*/}
         }
+		public void addHeader(string content){
+			HtmlParser.Parsed header = HtmlParser.Parse("thead", content);
+            headers.Add(new Header(header.content));
+		}
+		public void addFooter(string content){
+			HtmlParser.Parsed header = HtmlParser.Parse("tfoot", content);
+            footers.Add(new Footer(header.content));
+		}
+		public void addBody(string content){
+			HtmlParser.Parsed header = HtmlParser.Parse("tbody", content);
+            bodies.Add(new Body(header.content));
+		}
         public string get()
         {
             string result = "<table>";

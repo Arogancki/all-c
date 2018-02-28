@@ -40,7 +40,7 @@
             this.pictureBox3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pictureBox3.Cursor = System.Windows.Forms.Cursors.Hand;
             this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
-            this.pictureBox3.Location = new System.Drawing.Point(219, 9);
+            this.pictureBox3.Location = new System.Drawing.Point(236, 9);
             this.pictureBox3.Margin = new System.Windows.Forms.Padding(0);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(25, 25);
@@ -64,21 +64,20 @@
             this.label4.Font = new System.Drawing.Font("Arial Narrow", 11.25F);
             this.label4.Location = new System.Drawing.Point(12, 9);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(204, 20);
+            this.label4.Size = new System.Drawing.Size(221, 20);
             this.label4.TabIndex = 65;
-            this.label4.Text = "Click to select a dir to seach .sln file";
-            this.label4.Click += new System.EventHandler(this.label4_Click);
+            this.label4.Text = "Click to select a dir to seach for .sln file";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(270, 44);
+            this.ClientSize = new System.Drawing.Size(282, 41);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.pictureBox3);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Backup";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

@@ -40,10 +40,13 @@ namespace WindowsFormsApp1
             foreach (string line in file.Split('\n'))
             {
                 string name = line.Substring(line.IndexOf(" ") + 1);
-                string name3 = name.Substring(0, 3).ToLower();
-                if (!three.ContainsKey(name3))
-                    three.Add(name3, new List<string>());
-                three[name3].Add(name);
+                if (name.Length > 2)
+                {
+                    string name3 = name.Substring(0, 3).ToLower();
+                    if (!three.ContainsKey(name3))
+                        three.Add(name3, new List<string>());
+                    three[name3].Add(name);
+                }
             }
             watch3.Stop();
             time3 = watch3.ElapsedMilliseconds.ToString() + "ms";
